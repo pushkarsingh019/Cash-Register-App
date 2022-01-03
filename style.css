@@ -1,1 +1,10 @@
 /* Main CSS File */
+body {
+    text-align: center;
+}
+small {
+    color: grey;
+}
+button {
+    margin: 1rem;
+}
